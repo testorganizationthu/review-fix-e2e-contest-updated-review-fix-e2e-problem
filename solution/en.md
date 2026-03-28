@@ -1,0 +1,1 @@
+Read N, print N+1
