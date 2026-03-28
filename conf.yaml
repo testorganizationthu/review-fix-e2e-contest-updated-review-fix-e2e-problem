@@ -1,6 +1,6 @@
 folder: problem
 samples:
-    - cases: '[1..1]'
+    - cases: '[1..2]'
 title:
     en: Review Fix E2E Problem
 version: 2
