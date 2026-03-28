@@ -1,10 +1,10 @@
 {{ self.title() }}
 
 {{ s('background') }}
-Test background
+Updated background
 
 {{ s('description') }}
-Given N, compute N+1
+Given N, compute N+2
 
 {{ s('input format') }}
 One integer N
