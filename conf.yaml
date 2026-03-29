@@ -1,6 +1,10 @@
+checker: wcmp
 folder: problem
+memory limit: 256 MiB
 samples:
     - cases: '[1..1]'
+time limit: 2.5
 title:
     en: Review Fix E2E Problem
+type: program
 version: 2
